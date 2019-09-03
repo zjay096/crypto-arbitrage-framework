@@ -32,6 +32,10 @@ trading_fee = {
     'bitfinex': 0.002,
     'kucoin': 0.001,
     'bittrex': 0.0025,
+    'coss': 0.0025,
+    'idex': 0.002,
+    'poloniex': 0.0025,
+    'upbit': 0.0015   
 }
 # tokens to be considered, too many small coins will lead to inefficient trading
 tokens = {
